@@ -1,5 +1,9 @@
 @extends('layouts/app')
 
 @section('content')
-    Contenuto della pagina
+
+    <div class="container py-4">
+        <h1>Film</h1>
+    </div>
+
 @endsection
